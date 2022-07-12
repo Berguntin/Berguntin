@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Berguntin
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking for my fist job as programmer
 - 📫 How to reach me: [hugo.b.guntin@gmail.com](https://www.linkedin.com/in/hugo-bermudez-developer/)
 
