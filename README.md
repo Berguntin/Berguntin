@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Berguntin
+- 👋 Hi, I’m @berguntin
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking for my fist job as programmer
